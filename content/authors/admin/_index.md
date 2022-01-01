@@ -12,9 +12,9 @@ organizations:
     url: ""
 education:
   courses:
-    - year: 14
-      course: khkhkh
-      institution: nlklhkhl
+    - year: ""
+      course: PhD in Applied Mathematics
+      institution: University of California, Los Angeles
 email: ""
 superuser: true
 highlight_name: true
