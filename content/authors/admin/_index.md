@@ -12,9 +12,12 @@ organizations:
     url: ""
 education:
   courses:
-    - year: ""
+    - year: "2021 - Present"
       course: PhD in Applied Mathematics
       institution: University of California, Los Angeles
+    - year: "2017 - 2021"
+      course: BS in Pure Mathematics, Mechanical Engineering
+      institution: California State University, Fresno
 email: ""
 superuser: true
 highlight_name: true
