@@ -11,7 +11,10 @@ organizations:
   - name: University of California, Los Angeles
     url: ""
 education:
-  courses: []
+  courses:
+    - year: 14
+      course: khkhkh
+      institution: nlklhkhl
 email: ""
 superuser: true
 highlight_name: true
