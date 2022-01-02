@@ -17,7 +17,7 @@ author_notes:
   - Equal Contribution
   - PI
 draft: false
-featured: false
+featured: true
 image:
   filename: https://www.silviasellan.com/data/fracture-modes.jpg
   focal_point: Smart
