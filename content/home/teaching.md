@@ -1,8 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: projects
-widghet-url: #teaching
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -11,7 +10,7 @@ headless: true
 weight: 60
 
 title: Teaching
-subtitle: If you're a current student: class material is available on the class site.  If you're a previous student/someone else: class material is avaialble on request.
+subtitle: If you're a current student: course content is on the site.  If you're a previous student or someone else: additional course content is availale on request.
 
 content:
   # Filter on criteria
