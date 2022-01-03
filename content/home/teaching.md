@@ -11,7 +11,7 @@ headless: true
 weight: 60
 
 title: Teaching
-subtitle:
+subtitle: If you're a current student: class material is available on the class site.  If you're a previous student/someone else: class material is avaialble on request.
 
 content:
   # Filter on criteria
