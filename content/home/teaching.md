@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Teaching
-subtitle: If you're a current student: course content is on the site.  If you're a previous student or someone else: additional course content is availale on request.
+subtitle: 'If you're a current student: course content is on the site.  If you're a previous student or someone else: additional course content is availale on request.'
 
 content:
   # Filter on criteria
