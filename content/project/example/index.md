@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-title: PIC 10A
+title: Fall 2021 - PIC 10A
 summary: ""
 url_video: ""
 date: 2021-10-01T00:00:00.000Z
