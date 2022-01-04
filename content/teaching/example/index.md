@@ -4,7 +4,7 @@ url_pdf: ""
 title: Fall 2021 - PIC 10A
 summary: ""
 date: 2021-10-1T00:00:00Z
-showthedate: false
+show_date: false
 url_video: ""
 external_link: ""
 url_slides: ""
