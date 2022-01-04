@@ -7,8 +7,8 @@ authors:
   - Khang Tran
 abstract: >-
   For any $A(z),B(z),C(z) \in \mathbb{C}[z]$, we study the zero distribution of
-  a table of polynomials $ (P_{m,n} (z) )_{m,n} \in \mathbb{N}_{0} $ satisfying
-  the recurrence relation
+  a table of polynomials $P_{m,n} (z) _{m,n} \in \mathbb{N}_{0}$ satisfying the
+  recurrence relation
 
   $P_{m,n}(z)=A(z)P_{m-1,n}(z)+B(z)P_{m,n-1}(z)+C(z)P_{m-1,n-1}(z)$
 
