@@ -10,9 +10,9 @@ abstract: >-
   a table of polynomials ${P_{m,n}(z)}_{m,n} \in \mathbb{N}_{0}$ satisfying the
   recurrence relation
 
-  $P_{m,n}(z)=A(z)P_{m−1,n}(z)+B(z)P_{m,n−1}(z)+C(z)P_{m−1,n−1}(z)$
+  $P_{m,n}(z)=A(z)P_{m-1,n}(z)+B(z)P_{m,n-1}(z)+C(z)P_{m-1,n-1}(z)$
 
-  with the initial condition $P_{0,0}(z)=1$ and $P_{−m,−n}(z)=0$ $\forall m,n \in \mathbb{N}$. We show that the zeros of $P_m,n(z)$ lie on a curve whose equation is given explicitly in terms of $A(z)$,$B(z)$, and $C(z)$. We also study the zero distribution of a case with a general initial condition.
+  with the initial condition $P_{0,0}(z)=1$ and $P_{-m,-n}(z)=0$ $\forall m,n \in \mathbb{N}$. We show that the zeros of $P_m,n(z)$ lie on a curve whose equation is given explicitly in terms of $A(z)$,$B(z)$, and $C(z)$. We also study the zero distribution of a case with a general initial condition.
 draft: false
 featured: false
 image:
