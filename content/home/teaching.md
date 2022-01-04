@@ -11,6 +11,7 @@ weight: 70
 
 title: Teaching
 subtitle: ''
+showthedate: false
 
 content:
   # Filter on criteria
