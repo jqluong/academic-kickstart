@@ -33,10 +33,11 @@ image:
   filename: https://www.silviasellan.com/data/fracture-modes.jpg
   focal_point: Smart
   preview_only: false
+  caption: We define a shape's fracture modes, or a shape's natural breaking patterns.
 summary: We develop an algorithm for computing the fracture modes, or the most
   natural ways for the object to break, of an object.  Once the fracture modes
   are computed, real time impact can be projected onto the object to simulate
   fracture of the object.
 date: 2022-01-02T00:57:12.875Z
 ---
-[arXiv link](<https://arxiv.org/abs/2111.05249>)
+[arXiv link](https://arxiv.org/abs/2111.05249)
