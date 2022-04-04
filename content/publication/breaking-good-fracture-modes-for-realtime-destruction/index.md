@@ -39,5 +39,5 @@ summary: We develop an algorithm for computing the fracture modes, or the most
   fracture of the object.
 date: 2022-01-02T00:57:12.875Z
 ---
-[arXiv link](<https://arxiv.org/abs/2111.05249>)
-Accompanying video link: {{< video src="fracture-modes.mp4" controls="yes" >}}
+[arXiv link](<https://arxiv.org/abs/2111.05249>) <br>
+Accompanying video link: {{< youtube u5SQ-CfSU-0 >}}
