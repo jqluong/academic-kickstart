@@ -5,6 +5,8 @@ publication_types:
 authors:
   - Jack Luong
   - Khang Tran
+publication: Zeitschrift für Analysis und ihre Anwendungen (2022)
+publication_short: Z. Anal. Anwend.
 abstract: >-
   For any $A(z),B(z),C(z) \in \mathbb{C}[z]$, we study the zero distribution of
   a table of polynomials $( P_{m,n}(z) ), m,n \in \mathbb{N}$ satisfying the
@@ -21,4 +23,6 @@ image:
   preview_only: false
 date: 2022-01-02T00:57:03.738Z
 ---
-[arXiv link](<https://arxiv.org/abs/2008.08707>)
+[arXiv Link](https://arxiv.org/abs/2008.08707)
+
+[Journal Link](https://ems.press/journals/zaa/articles/5781341)
