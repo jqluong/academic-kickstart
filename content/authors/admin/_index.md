@@ -22,6 +22,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a second year applied mathematics graduate student at UCLA.  I am currently interested in controls, dynamical systems, and partial differential equations.  I have completed 2/3 out of my required qualifying exams (Basic and Applied Differential Equations) thus far.  This summer I am working on the [UCLA CAM REU](https://www.math.ucla.edu/~bertozzi/WORKFORCE/REU2022Topics.html) doing research in particle laden flow.
+I am a second year applied mathematics graduate student at UCLA.  I am interested in the mathematics arising from engineering applications, such as control theory, dynamical systems, and partial differential equations.  I have completed all of my required qualifying exams (Basic, Applied Differential Equations, Numerical Analysis).  This summer I was working on the [UCLA CAM REU](https://www.math.ucla.edu/~bertozzi/WORKFORCE/REU2022Topics.html) doing research in particle laden flow, and continuing that research currently.
 
 I completed my undergraduate degree at Fresno State in 2021, studying pure mathematics and mechanical engineering.
