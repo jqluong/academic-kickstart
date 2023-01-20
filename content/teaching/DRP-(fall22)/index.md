@@ -10,5 +10,5 @@ image:
   focal_point: Smart
   preview_only: false
   
-summary: TESTING CONTENT
+TESTING CONTENT
 ---
