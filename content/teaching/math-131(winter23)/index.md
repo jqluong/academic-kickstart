@@ -1,5 +1,5 @@
 ---
-title: Winter 2023 - Math 131A
+title: 2023 Winter - Math 131A
 subtitle: Analysis
 draft: false
 featured: true

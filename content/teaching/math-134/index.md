@@ -1,5 +1,5 @@
 ---
-title: Winter 2022 - Math 134
+title: 2022 Winter - Math 134
 subtitle: Linear and Nonlinear Systems of Differential Equations
 draft: false
 featured: true
