@@ -1,5 +1,6 @@
 ---
 title: 2022 Fall - DRP
+subtitle: Approximation Theory
 summary: Approximation Theory
 draft: false
 featured: true

@@ -26,4 +26,4 @@ I am a second year applied mathematics graduate student at UCLA.  I am intereste
 
 I completed my undergraduate degree at Fresno State in 2021, studying pure mathematics and mechanical engineering.
 
-I﻿ am open to mentoring students through UCLA's [Directed Reading Program](https://www.math.ucla.edu/~drp/).  Past projects I've mentored with students can be found under my teaching tab.  If you're interested in areas I'm interested in or areas I may know something about, I encourage you to apply to the DRP at the beginning of the quarter!
+I﻿ am open to mentoring students through UCLA's [Directed Reading Program](https://www.math.ucla.edu/~drp/).  Past projects I've mentored with students can be found under my teaching tab.  I prefer to work with students on topics that aren't directly covered in undergraduate math courses at UCLA.  If you're interested in areas I'm interested in or areas I may know something about, I encourage you to apply to the DRP at the beginning of the quarter!
