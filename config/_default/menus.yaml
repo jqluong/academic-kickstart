@@ -16,6 +16,7 @@ main:
   - name: Projects
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     url: '#featured'
 =======
     url: '#project'
@@ -23,6 +24,9 @@ main:
 =======
     url: '#featured'
 >>>>>>> parent of 855f98c (fixed project tags)
+=======
+    url: '#project'
+>>>>>>> parent of 0499668 (i labelled something incorrectly)
     weight: 40
   - name: Contact
     url: '#contact'
