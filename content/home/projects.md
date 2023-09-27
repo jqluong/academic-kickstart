@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
 title: Projects
 subtitle: ''
@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - Projects
+      - publication
     tag: ''
     category: ''
     publication_type: ''
