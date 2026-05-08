@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 ---
 I am a fifth year applied mathematics graduate student at UCLA.  I am interested in the mathematics arising from engineering applications. Currently, I focus on compressible fluid dynamics, particularly gas dynamics modelled by the inviscid compressible Euler equations. I previously worked on particle laden flow and control theory for PDEs. Additionally, I am interested in the numerical aspects of such problems. I have done some work with Los Alamos National Laboratory. Last summer I looked at the role of
-entropy in numerical calculations of the Euler equations. Currently, I am investigating implosions to the Euler equations via
+entropy in numerical calculations of the Euler equations. Currently, I am investigating self-similar implosions to the compressible Euler equations via
 the theory of hyperbolic conservation laws and numerical simulations.
 
 I completed my undergraduate degree at Fresno State in 2021, studying pure mathematics and mechanical engineering.
