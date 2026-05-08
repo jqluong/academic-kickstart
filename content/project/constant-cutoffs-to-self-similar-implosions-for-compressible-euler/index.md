@@ -4,7 +4,7 @@ date: 2026-05-08T00:18:34.796Z
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: implosion_2d.png
   focal_point: Smart
   preview_only: false
 ---
