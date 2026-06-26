@@ -27,3 +27,4 @@ image:
   preview_only: false
 date: 2026-06-26T19:46:59.238Z
 ---
+[arXiv]<https://arxiv.org/abs/2606.12758><br>
