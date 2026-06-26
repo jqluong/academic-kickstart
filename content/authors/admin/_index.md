@@ -28,4 +28,4 @@ the theory of hyperbolic conservation laws and numerical simulations.
 
 I completed my undergraduate degree at Fresno State in 2021, studying pure mathematics and mechanical engineering.
 
-Unfortunately, I do not antiicipate participating in UCLA's [Directed Reading Program](https://www.math.ucla.edu/~drp/) this academic year.
+I﻿ am currently on the job market for positions beginning in 2027!
