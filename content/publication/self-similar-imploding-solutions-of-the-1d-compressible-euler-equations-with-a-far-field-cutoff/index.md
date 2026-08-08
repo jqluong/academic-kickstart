@@ -27,4 +27,6 @@ image:
   preview_only: false
 date: 2026-06-26T19:46:59.238Z
 ---
-[arXiv]<https://arxiv.org/abs/2606.12758><br>
+P﻿ublished as: Jack Luong, Scott D. Ramsey, Andrea L. Bertozzi, Roy Baty. Self-similar imploding solutions of the 1D compressible Euler equations with a far field cutoff. *Discrete and Continuous Dynamical Systems*, 2027, 58: 197-221. doi: [10.3934/dcds.2026141](https://doi.org/10.3934/dcds.2026141)
+
+\[Preprint]<https://arxiv.org/abs/2606.12758><br>
