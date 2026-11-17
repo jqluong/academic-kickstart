@@ -1,5 +1,5 @@
 ---
-title: Finite time implosions of the multidimensional compressible Euler equations with a finite far-field cutoff
+title: "Finite time implosions of the multidimensional compressible Euler equations with a finite far-field cutoff"
 publication_types:
   - "3"
 authors:
