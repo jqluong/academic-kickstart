@@ -15,7 +15,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2026-06-26T19:46:59.238Z
+date: 2026-09-26T19:46:59.238Z
 ---
 
-\[Preprint]<https://arxiv.org/abs/2610.30331><br>
+[arXiv Link]<https://arxiv.org/abs/2610.30331><br>

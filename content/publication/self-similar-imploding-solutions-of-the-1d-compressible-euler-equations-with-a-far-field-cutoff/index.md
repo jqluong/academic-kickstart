@@ -8,6 +8,8 @@ authors:
   - Scott Ramsey
   - Andrea L. Bertozzi
   - Roy Baty
+publication: Discrete and Continuous Dynamical Systems (2027)
+publication_short: DCDS
 abstract: Imploding solutions to the radially symmetric, isentropic,
   compressible Euler equations have been well-studied, inspired by the work of
   Guderley. However, these smooth imploding solutions are shown to be

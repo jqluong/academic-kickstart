@@ -15,6 +15,7 @@ Implosions for the Compressible Euler equations are an example of finite time bl
 W﻿e consider constant cutoffs to the Kidder initial data as a way of remediating the radial unboundedness. In 1D, a rarefaction with an explicit closed form emerges and subsumes the implosion. In higher dimensions, the implosion persists and converges to a self-similar profile. Through the analysis, closed forms for various features are derived. These analytical expressions are compared to high resolution numerical simulations.
 
 The publication discussing the 1D case can be found [here:](https://www.aimsciences.org//article/doi/10.3934/dcds.2026141)
+
 The preprint on the multidimensional case can be found [here:](https://arxiv.org/abs/2610.30331)
 
 This work was supported by the US Department of Energy through the Los Alamos National Laboratory. Los Alamos National Laboratory is operated by Triad National Security, LLC, for the National Nuclear Security Administration of the US Department of Energy (Contract No. 89233218CN000001)
